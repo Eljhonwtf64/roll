@@ -5,25 +5,21 @@ let staff = `✨ *EQUIPO DE AYUDANTES*
 
 👑 *Propietario:*
 
-• 🐉𝙉𝙚𝙤𝙏𝙤𝙠𝙮𝙤 𝘽𝙚𝙖𝙩𝙨🐲
+• ꧁༒☬𝕵𝖍𝖔𝖓☬༒꧂
 🤴 *Rol:* Propietario
-📱 *Número:* wa.me/50248019799
+📱 *Número:* wa.me/584142577312
 ✨️ *GitHub:* https://github.com/TOKIO5025
 
 🚀  *Colaboradores:*
 
-• Emer
+• ꧁༒☬𝕵𝖍𝖔𝖓☬༒꧂ (2)
 🦁 *Rol:* Developer
-📱 *Número:* Wa.me/51984368849
+📱 *Número:* Wa.me/584125014674
 
-• Dioneibi
+• JG
 🐯 *Rol:* Contribuidor
-📱 *Número:* Wa.me/18294868853
+📱 *Número:* Wa.me/582129443583
 
-• 🐉𝙉𝙚𝙤𝙏𝙤𝙠𝙮𝙤 𝘽𝙚𝙖𝙩𝙨🐲
-💻 *Rol:* Soporte 
-📱 *Número:* Wa.me/50248019799
-`
 await conn.sendFile(m.chat, icons, 'yaemori.jpg', staff.trim(), fkontak, true, {
 contextInfo: {
 'forwardingScore': 200,
