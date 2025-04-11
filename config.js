@@ -36,7 +36,7 @@ global.sessions = 'Akenosesion'
 global.jadi = 'akenoJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:.•** 𝐣𝐡𝐨𝐧**•.\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
+global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱\n├ ρяοριєταяιο:.•** 𝐣𝐡𝐨𝐧**•.\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = `'🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱 `
 global.author = `♾━━━━━━━━\n 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 ⋆\n✊🏾´ *•.¸♥¸.•** 𝐣𝐡𝐨𝐧**•.¸♥¸.•*´✊🏾\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕticker by ; 🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱𓆪͟͞ `;
 global.wm = ' 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩';
@@ -77,7 +77,7 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 
 global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "584142577312-584125014674@g.us" } : {}) }, message: { videoMessage: { title: 'akeno', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱', jpegThumbnail: logo5 }}};
 
-global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'akenobot', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '¤ akeno-Botᚐ', jpegThumbnail: logo5 }}};
+global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'akenobot', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱ᚐ', jpegThumbnail: logo5 }}};
 
 
 global.ch = {
@@ -90,7 +90,7 @@ ch3: '120363341523880410@newsletter',
 global.gp4 = 'https://whatsapp.com/channel/0029Vaqe1Iv65yDAKBYr6z0A' //Channel Team infinite
 global.gp1 = 'https://whatsapp.com/channel/0029Vaqe1Iv65yDAKBYr6z0A' //Grupo 
 global.gp2 = 'https://whatsapp.com/channel/0029Vaqe1Iv65yDAKBYr6z0A'//
-global.comunidad1 = 'https://whatsapp.com/channel/0029Vaqe1Iv65yDAKBYr6z0A' //Comunidad 𝘼𝙠𝙚𝙣𝙤 𝙝𝙞𝙢𝙚𝙟𝙞𝙢𝙖-𝘽𝙊𝙏
+global.comunidad1 = 'https://whatsapp.com/channel/0029Vaqe1Iv65yDAKBYr6z0A' //Comunidad '🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱
 global.channel = 'https://whatsapp.com/channel/0029Vaqe1Iv65yDAKBYr6z0A' //Canal Oficial
 global.channel2 = 'https://whatsapp.com/channel/0029VbB8ooKK5cD7K3akFP35' //Canal test
 global.yt = 'https://youtube.com/@kakaroto-bot?si=dRYFi-dAw8H_mgGI' //Canal De Youtube
@@ -111,8 +111,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n 𝘼𝙠𝙚𝙣𝙤 𝙝𝙞𝙢𝙚𝙟𝙞𝙢𝙖-𝘽𝙊𝙏`;
-global.nomorown = '50248019799';
+global.wm2 = `${dia} ${fecha}\n 🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱`;
+global.nomorown = '584142577312';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
