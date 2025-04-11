@@ -38,14 +38,14 @@ global.jadi = 'akenoJadiBot'
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = `Akeno himejima-𝐁𝐨𝐭-𝐌𝐃 `
-global.author = `♾━━━━━━━━\nAkeno himejima-𝐁𝐨𝐭-𝐌𝐃 ⋆\n🐉𝙉𝙚𝙤𝙏𝙤𝙠𝙮𝙤 𝘽𝙚𝙖𝙩𝙨🐲\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕticker by ; Akeno himejima-𝐁𝐨𝐭-𝐌𝐃𓆪͟͞ `;
-global.wm = 'Akeno himejima-𝐁𝐨𝐭-𝐌𝐃ⷭ𓆪͟͞ ';
+global.author = `♾━━━━━━━━\n 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 ⋆\n✊🏾´ *•.¸♥¸.•** 𝐣𝐡𝐨𝐧**•.¸♥¸.•*´✊🏾\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕticker by ; Akeno himejima-𝐁𝐨𝐭-𝐌𝐃𓆪͟͞ `;
+global.wm = ' 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩';
 global.igfg = '🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱'
 global.botname = '🔱𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩🔱'
 global.dev = ' 𝓟𝓞𝓦𝓔𝓡𝓓 𝓑𝓨 ✊🏾´ *•.¸♥¸.•** 𝐣𝐡𝐨𝐧**•.¸♥¸.•*´✊🏾'
-global.textbot = '𝘼𝙠𝙚𝙣𝙤 𝙝𝙞𝙢𝙚𝙟𝙞𝙢𝙖-𝘽𝙊𝙏'
+global.textbot = ' 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩'
 global.gt = '🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱';
-global.namechannel = '𝘼𝙠𝙚𝙣𝙤 𝙝𝙞𝙢𝙚𝙟𝙞𝙢𝙖-𝘽𝙊𝙏'
+global.namechannel = '✊🏾´ *•.¸♥¸.•** 𝐣𝐡𝐨𝐧**•.¸♥¸.•*´✊🏾'
 global.welcom1 = 'Edita Con #setwelcome'
 global.welcom2 = 'Edita Con #setbye'
 
