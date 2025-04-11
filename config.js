@@ -36,9 +36,9 @@ global.sessions = 'Akenosesion'
 global.jadi = 'akenoJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = `Akeno himejima-𝐁𝐨𝐭-𝐌𝐃 `
-global.author = `♾━━━━━━━━\n 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 ⋆\n✊🏾´ *•.¸♥¸.•** 𝐣𝐡𝐨𝐧**•.¸♥¸.•*´✊🏾\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕticker by ; Akeno himejima-𝐁𝐨𝐭-𝐌𝐃𓆪͟͞ `;
+global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:.•** 𝐣𝐡𝐨𝐧**•.\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
+global.packname = `'🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱 `
+global.author = `♾━━━━━━━━\n 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 ⋆\n✊🏾´ *•.¸♥¸.•** 𝐣𝐡𝐨𝐧**•.¸♥¸.•*´✊🏾\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕticker by ; 🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱𓆪͟͞ `;
 global.wm = ' 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩';
 global.igfg = '🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱'
 global.botname = '🔱𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩🔱'
@@ -73,9 +73,9 @@ global.rule = fs.readFileSync('./src/rule.jpg')
 global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 🪩
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '𝘼𝙠𝙚𝙣𝙤 𝙝𝙞𝙢𝙚𝙟𝙞𝙢𝙖-𝘽𝙊𝙏', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "584142577312-584125014674@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'akeno', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘𝘼𝙠𝙚𝙣𝙤 𝙝𝙞𝙢𝙚𝙟𝙞𝙢𝙖-𝘽𝙊𝙏', jpegThumbnail: logo5 }}};
+global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "584142577312-584125014674@g.us" } : {}) }, message: { videoMessage: { title: 'akeno', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '🔱 𝙆𝙖𝙠𝙖𝙨𝙝𝙞-𝙗𝙤𝙩 🔱', jpegThumbnail: logo5 }}};
 
 global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'akenobot', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '¤ akeno-Botᚐ', jpegThumbnail: logo5 }}};
 
